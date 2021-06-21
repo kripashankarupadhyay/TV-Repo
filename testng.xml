@@ -5,6 +5,7 @@
   <test name="Temprature">
 	 <classes>
 	   <class name="TestCases.Login"/>
+		 
 	 </classes>
    </test>
    </suite>
